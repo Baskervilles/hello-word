@@ -1,2 +1,2 @@
 # hello-word
-log way road
+long way road
